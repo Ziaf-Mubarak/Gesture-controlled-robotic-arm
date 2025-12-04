@@ -92,4 +92,4 @@ You can use the *Arduino IDE* with ESP32 support.
    - Adafruit Unified Sensor
 3. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/gesture-controlled-robotic-arm.git
+   git clone https://github.com/<Ziaf-mubarak>/gesture-controlled-robotic-arm.git
